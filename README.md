@@ -11,7 +11,6 @@ https://mac-book-pro-landing-page-clone.vercel.app/
 ## Features
 1. Pixel-Perfect Apple-Inspired UI
 Recreated Apple’s MacBook Pro product page layout, including:
-
 Hero section with product showcase
 Navigation bar with Apple-style spacing and typography
 Clean dark theme aesthetic
@@ -31,9 +30,8 @@ Feature metric row (CPU, GPU, ML, Battery performance)
 
 5. Performance & Simplicity
 Lightweight static frontend
-No framework overhead (pure HTML/CSS/JS approach)
+No framework overhead (pure HTML/CSS)
 Optimized image usage for fast load times
-Minimal DOM complexity for smooth rendering
 
 6. Design Accuracy Focus
 Spacing and alignment tuned for visual balance
@@ -41,28 +39,32 @@ Consistent grid structure across sections
 Footer layout modeled after Apple’s global navigation system
 
 ## Tech Stack
-HTML5
-CSS3 (Flexbox + Responsive Design)
-JavaScript (ES6+)
-Figma (design reference / layout planning)
-Assets (custom images + Apple-inspired UI assets)
+```text
+-HTML5
+-CSS3 (Flexbox + Responsive Design)
+-Figma (design reference / layout planning)
+-Assets (custom images + Apple-inspired UI assets)
+ ```
 
 ## Project Structure
+```text
 Apple_UI/
 ├── index.html
 ├── styles.css
-├── script.js (optional)
 ├── README.md
 └── images/
     ├── Apple_logo_grey.png
     ├── favicon.ico
     ├── mbp.png
-    
+ ```
+
 ## Key Learning Outcomes
-Improved understanding of responsive layout systems
-Practiced replicating high-end production UI (Apple-level design)
-Learned how to manage spacing consistency across breakpoints
-Strengthened UI/UX judgment for real-world product pages
+```text
+-Improved understanding of responsive layout systems
+-Practiced replicating high-end production UI (Apple-level design)
+-Learned how to manage spacing consistency across breakpoints
+-Strengthened UI/UX judgment for real-world product pages
+ ```
 
 ## Author
 Joel Alvarez
